@@ -1,0 +1,33 @@
+.height {
+    height: 50px;
+    margin-bottom: 10px;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+
+.yellow {
+    height: 50px;
+    background-color: yellow;
+}
+
+.btn-violet {
+    color: #fff;
+    background-color: #ee82ee;
+    border-color: #ee82ee;
+}
+
+.btn-violet:hover {
+    background-color: #902790;
+    border-color: #902790;
+}
+
+.carousel img {
+    height: 800px;
+    object-fit: cover;
+}
